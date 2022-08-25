@@ -1,0 +1,21 @@
+
+.header{
+display:flex;
+padding: 2px;
+justify-content:flex-start;
+align-items: center;  
+background-color: rgb(19, 104, 157);
+width:100vw;
+height:8vh;
+margin:0;
+ 
+}
+.heading{
+    margin:4px 30px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue
+
+}
+
