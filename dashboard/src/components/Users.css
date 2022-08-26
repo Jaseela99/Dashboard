@@ -1,0 +1,26 @@
+.container{
+    color:white;
+    margin:50px 200px;
+    width:70vw;
+    align-items: center;
+    
+}
+.tabs{
+    padding:10px;
+    background-color: rgb(106, 109, 110);
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.user{
+    background-color: black;
+    border-radius: 8px;
+    color:white;
+    padding:10px;
+}
+.user:hover{
+    opacity: 70%;
+}
+
+

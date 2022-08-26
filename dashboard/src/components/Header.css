@@ -1,21 +1,29 @@
 
 .header{
 display:flex;
-padding: 2px;
-justify-content:flex-start;
 align-items: center;  
 background-color: rgb(19, 104, 157);
 width:100vw;
 height:8vh;
 margin:0;
- 
+
 }
 .heading{
-    margin:4px 30px;
-    font-size: 18px;
-    font-weight: 500;
+    display: flex;
+    gap: 40px;
+    margin:4px 50px;
+    font-size: 16px;
+    font-weight: 400;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:aliceblue
-
+    color:aliceblue;
+    list-style: none;
+    
+}
+.option{
+    text-decoration:underline;
+    color:white;
+}
+.option:hover{
+    color:black
 }
 
